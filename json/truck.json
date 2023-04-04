@@ -3,15 +3,15 @@
         "img-a", "img-b", "img-c", "img-d", "img-e", "img-f", "img-g", "img-h"
     ],
     "cars": [
-        {"img": "img/truck/cmdr.jpg", "name": "img-cmdr", "ttl": "Milkman112", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/a.jpg", "name": "img-a", "ttl": "Inevitable Carnage", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/b.jpg", "name": "img-b", "ttl": "Evel Knievel", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/c.jpg", "name": "img-c", "ttl": "Person Car", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/d.jpg", "name": "img-d", "ttl": "*PD", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/e.jpg", "name": "img-e", "ttl": "Road Rager", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/f.jpg", "name": "img-f", "ttl": "The Unnuckable Truck", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/g.jpg", "name": "img-g", "ttl": "Misplaced Crosswalk", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/g.jpg", "name": "img-g", "ttl": "One-Lane Road", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/truck/cmdr.png", "name": "img-cmdr", "ttl": "Milkman112", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/a.png", "name": "img-a", "ttl": "Inevitable Carnage", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/b.png", "name": "img-b", "ttl": "Evel Knievel", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/c.png", "name": "img-c", "ttl": "Person Car", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/d.png", "name": "img-d", "ttl": "*PD", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/e.png", "name": "img-e", "ttl": "Road Rager", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/f.png", "name": "img-f", "ttl": "The Unnuckable Truck", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/g.png", "name": "img-g", "ttl": "Misplaced Crosswalk", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/g.png", "name": "img-g", "ttl": "One-Lane Road", "cmc": "2wg", "p": "0", "t": "1"}
     ],
     "colorA": "6098e1",
     "colorB": "dc5d7d",
