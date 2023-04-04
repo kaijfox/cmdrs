@@ -11,7 +11,7 @@
         {"img": "img/truck/e.png", "name": "img-e", "ttl": "Road Rager", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/truck/f.png", "name": "img-f", "ttl": "The Unnuckable Truck", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/truck/g.png", "name": "img-g", "ttl": "Misplaced Crosswalk", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/g.png", "name": "img-g", "ttl": "One-Lane Road", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/truck/h.png", "name": "img-h", "ttl": "One-Lane Road", "cmc": "2wg", "p": "0", "t": "1"}
     ],
     "colorA": "6098e1",
     "colorB": "dc5d7d",
