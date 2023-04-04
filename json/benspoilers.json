@@ -1,8 +1,8 @@
 {
     "spoiledCars": [
-        {"img": "e.jpg", "name": "ben-e", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "e.jpg", "name": "ben-f", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "e.jpg", "name": "ben-g", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/ben/e.jpg", "name": "ben-e", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/e.jpg", "name": "ben-f", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/e.jpg", "name": "ben-g", "cmc": "2wg", "p": "0", "t": "1"}
     ],
     "featuredMilk": "ben-e",
     "spoilers": [

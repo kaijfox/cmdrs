@@ -3,16 +3,16 @@
         "ben-a", "ben-b", "ben-c", "ben-d", "ben-b", "ben-c"
     ],
     "cars": [
-        {"img": "a.jpg", "name": "ben-a", "ttl": "Jim Kaden", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "b.jpg", "name": "ben-b", "ttl": "Julie Hagle", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "c.jpg", "name": "ben-c", "ttl": "Nick's Twin", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "d.jpg", "name": "ben-d", "ttl": "Jakes's Twin", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "c.jpg", "name": "ben-z", "ttl": "Tower's Twin", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "d.jpg", "name": "ben-x", "ttl": "Woter's Twin", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/truck/b.jpg", "name": "ben-a", "ttl": "Jim Kaden", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/b.jpg", "name": "ben-b", "ttl": "Julie Hagle", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/b.jpg", "name": "ben-c", "ttl": "Nick's Twin", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/b.jpg", "name": "ben-d", "ttl": "Jakes's Twin", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/c.jpg", "name": "ben-z", "ttl": "Tower's Twin", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/d.jpg", "name": "ben-x", "ttl": "Woter's Twin", "cmc": "2wg", "p": "0", "t": "1"}
     ],
     "colorA": "6098e1",
     "colorB": "dc5d7d",
-    "callout": "BE THE FIRST TO WIELD THE POWER OF JOKE.",
+    "callout": "BE THE FIRST TO WIELD THE POWER OF TRUCK.",
     "toptext": "The world is now Joke",
     "middlesex": "So.. you think you like to make Jokes, but never before have you chogged like this. Your friends will be begging for their lives. There <i>will</i> be something funny that <b>you</b> said.<br/><br/>This deck will leave you sayin' \"chiggadabup\" and push popping jokes out the wah-zoo. I am, quite literally, broken, dude.",
     "doubletickle": "BECOME THE CHOGOSPHERE",
