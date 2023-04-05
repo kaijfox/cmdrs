@@ -1,6 +1,6 @@
 {
     "featured": [
-        "img-a", "img-b", "img-c", "img-d", "img-e", "img-f", "img-g", "img-h"
+        "img-a", "img-b", "img-c", "img-d", "img-e", "img-f", "img-g"
     ],
     "cars": [
         {"img": "img/sand/cmdr.png", "name": "img-cmdr", "ttl": "Milkman112", "cmc": "2wg", "p": "0", "t": "1"},

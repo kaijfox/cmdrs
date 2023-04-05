@@ -1,6 +1,6 @@
 {
     "featured": [
-        "img-a", "img-b", "img-c", "img-d", "img-e", "img-f", "img-g", "img-h"
+        "img-a", "img-b", "img-c", "img-d", "img-e", "img-f", "img-g"
     ],
     "cars": [
         {"img": "img/joke/cmdrbase.png", "name": "img-cmdrbase", "ttl": "Tweetums, In Standby", "cmc": "2wg", "p": "0", "t": "1"},
