@@ -1,14 +1,19 @@
 {
     "featured": [
-        "ben-a", "ben-b", "ben-c", "ben-d", "ben-b", "ben-c"
+        "img-a", "img-b", "img-d", "img-e", "img-f", "img-g", "img-i"
     ],
     "cars": [
-        {"img": "img/ben/a.jpg", "name": "ben-a", "ttl": "Jim Kaden", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/ben/b.jpg", "name": "ben-b", "ttl": "Julie Hagle", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/ben/c.jpg", "name": "ben-c", "ttl": "Nick's Twin", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/ben/d.jpg", "name": "ben-d", "ttl": "Jakes's Twin", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/ben/c.jpg", "name": "ben-z", "ttl": "Tower's Twin", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/ben/d.jpg", "name": "ben-x", "ttl": "Woter's Twin", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/ben/cmdr1.png", "name": "img-cmdr1", "ttl": "Milkman112", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/cmdr2.png", "name": "img-cmdr2", "ttl": "Milkman112", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/a.png", "name": "img-a", "ttl": "Inevitable Carnage", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/b.png", "name": "img-b", "ttl": "Evel Knievel", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/c.png", "name": "img-c", "ttl": "Person Car", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/d.png", "name": "img-d", "ttl": "*PD", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/e.png", "name": "img-e", "ttl": "Road Rager", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/f.png", "name": "img-f", "ttl": "The Unnuckable ben", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/g.png", "name": "img-g", "ttl": "Misplaced Crosswalk", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/h.png", "name": "img-h", "ttl": "One-Lane Road", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/i.png", "name": "img-i", "ttl": "One-Lane Road", "cmc": "2wg", "p": "0", "t": "1"}
     ],
     "colorA": "6098e1",
     "colorB": "dc5d7d",
@@ -17,26 +22,26 @@
     "cmdrbg": "gpackage/ben/joke_bg2.jpg",
     "flatimg": "gpackage/ben/truck_flat.jpg",
     "stickybg": "gpackage/all/wood.jpg",
-    "callout": "BE THE FIRST TO WIELD THE POWER OF JOKE.",
-    "toptext": "The world is now Joke",
-    "middlesex": "So.. you think you like to make Jokes, but never before have you chogged like this. Your friends will be begging for their lives. There <i>will</i> be something funny that <b>you</b> said.<br/><br/>This deck will leave you sayin' \"chiggadabup\" and push popping jokes out the wah-zoo. I am, quite literally, broken, dude.",
-    "doubletickle": "BECOME THE CHOGOSPHERE",
-    "doublesex": "Your friends will be begging for their lives. There <i>will</i> be something funny that <b>you</b> said.<br/><br/>This deck will leave you sayin' \"chiggadabup\" and push popping jokes out the wah-zoo. I am, quite literally, broken, dude.",
+    "callout": "HE'S THE ONLY MAN WORTH KNOWING",
+    "toptext": "You Know Who of the Month",
+    "middlesex": "Who's that in my magic deck? That's right, it's the origin of testosterone himself and his harem of beautiful maidens, here to prove that there is love truer than Alden's for his mom.<br/><br/>He was born married to every woman and his bedtime is 9 PM, you can't go wrong with this hunk of a Mass Effect fanatic.",
+    "doubletickle": "FUCK RELENTLESSLY",
+    "doublesex": "You won't regret owning the only deck with more sex appeal than it has basic lands and, to top it off, you'll get to see everyone you had a crush on in high school.<br/><br/>That's right, even the late prime minister herself.",
     "commandertickle": "TWEET YOUR HEART OUT",
-    "commandersex": "The sixth shard of Alera &#8211; smellflex &#8211; was discovered in the deep pit of Ridgefield, CT, and with it we have crafted the most powerful <i>Magic, the Gathering</i> commander ever to grace this Earth.<br/><br/>We used this power to build a commander reaching new dimensions of power: with <i>six</i> forms of Tweetums you can make any board state funny and deliver the win.",
-    "cmdr": ["ben-a"],
+    "commandersex": "Who better to helm this deck than Mother Mary and the Father themselves, ready to bear the fruits of their carnal labor into the light of battle? <br/><br/>So what are you waiting for?",
+    "cmdr": ["img-cmdr1", "img-cmdr2"],
     "decksplay": {
         "ben": "Have You Ever Ben In Love?",
         "chutney": "Chutney's Empire",
         "truck": "Oncoming Traffic",
-        "sand": "Death and Taxes",
-        "jokes": "Have You Ever Made A Joke?"
+        "sand": "Silt and Taxes",
+        "jokes": "Makin' Jokes"
     },
     "deckliners": {
         "ben": "Have You Ever Ben In Love?",
         "chutney": "Chutney's Empire",
         "truck": "Oncoming Traffic",
-        "sand": "Death and Taxes",
-        "jokes": "Have You Ever Made A Joke?"
+        "sand": "Silt and Taxes",
+        "jokes": "Makin' Jokes"
     }
 }

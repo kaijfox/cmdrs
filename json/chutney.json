@@ -1,37 +1,45 @@
 {
     "featured": [
-        "ben-a", "ben-b", "ben-c", "ben-d", "ben-b", "ben-c"
+        "img-a", "img-b", "img-c", "img-d", "img-e", "img-f", "img-g", "img-h"
     ],
     "cars": [
-        {"img": "a.jpg", "name": "ben-a", "ttl": "Jim Kaden", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "b.jpg", "name": "ben-b", "ttl": "Julie Hagle", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "c.jpg", "name": "ben-c", "ttl": "Nick's Twin", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "d.jpg", "name": "ben-d", "ttl": "Jakes's Twin", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "c.jpg", "name": "ben-z", "ttl": "Tower's Twin", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "d.jpg", "name": "ben-x", "ttl": "Woter's Twin", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/chutney/cmdr.png", "name": "img-cmdr", "ttl": "Milkman112", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/a.png", "name": "img-a", "ttl": "Inevitable Carnage", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/b.png", "name": "img-b", "ttl": "Evel Knievel", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/c.png", "name": "img-c", "ttl": "Person Car", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/d.png", "name": "img-d", "ttl": "*PD", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/e.png", "name": "img-e", "ttl": "Road Rager", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/f.png", "name": "img-f", "ttl": "The Unnuckable chutney", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/g.png", "name": "img-g", "ttl": "Misplaced Crosswalk", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/h.png", "name": "img-h", "ttl": "One-Lane Road", "cmc": "2wg", "p": "0", "t": "1"}
     ],
     "colorA": "6098e1",
     "colorB": "dc5d7d",
-    "callout": "BE THE FIRST TO WIELD THE POWER OF JOKE.",
-    "toptext": "The world is now Joke",
-    "middlesex": "So.. you think you like to make Jokes, but never before have you chogged like this. Your friends will be begging for their lives. There <i>will</i> be something funny that <b>you</b> said.<br/><br/>This deck will leave you sayin' \"chiggadabup\" and push popping jokes out the wah-zoo. I am, quite literally, broken, dude.",
-    "doubletickle": "BECOME THE CHOGOSPHERE",
-    "doublesex": "Your friends will be begging for their lives. There <i>will</i> be something funny that <b>you</b> said.<br/><br/>This deck will leave you sayin' \"chiggadabup\" and push popping jokes out the wah-zoo. I am, quite literally, broken, dude.",
-    "commandertickle": "TWEET YOUR HEART OUT",
-    "commandersex": "The sixth shard of Alera &#8211; smellflex &#8211; was discovered in the deep pit of Ridgefield, CT, and with it we have crafted the most powerful <i>Magic, the Gathering</i> commander ever to grace this Earth.<br/><br/>We used this power to build a commander reaching new dimensions of power: with <i>six</i> forms of Tweetums you can make any board state funny and deliver the win.",
-    "cmdr": ["ben-a", "ben-b", "ben-c", "ben-d", "ben-z", "ben-x"],
+    "boximg": "gpackage/all/box2.png",
+    "looming_man": "gpackage/chutney/joke_char3.png",
+    "cmdrbg": "gpackage/chutney/joke_bg2.jpg",
+    "flatimg": "gpackage/chutney/truck_flat.jpg",
+    "stickybg": "gpackage/all/wood.jpg",
+    "callout": "RECEIVE A GUN IN THE MAIL.",
+    "toptext": "Endless Garbage",
+    "middlesex": "They say in a realm of junk, he with the largest garage is king. Boy, let me tell you, do we have a shoebox with your name on it.<br/><br/>The only Magic deck that costs 15 dollars per game, this smutshack of a junkyard stores its treasure in the tried and true methods of the target audience: 12-year-olds.",
+    "doubletickle": "DISCOVER THE POWER OF DRAFT COMMONS",
+    "doublesex": "Rummage in the jumbage to your sprocket's content: This deck features the only keyword guaranteed to cause a rules infraction (and one of these decks has mutate).<br/><br/>Is it a pile of garbage or a priceless machine? Only you can shake that shoebox.",
+    "commandertickle": "NATE JACOBS MOST WANTED",
+    "commandersex": "The only Broumvirate character to ever get away with murder, Dick Chutney has been dormant in his mountain of carefully named firearm parts.<br/><br/>He's back, more handsome than ever, and now he's doing the confiscating.",
+    "cmdr": ["img-cmdr"],
     "decksplay": {
         "ben": "Have You Ever Ben In Love?",
         "chutney": "Chutney's Empire",
-        "trucks": "Oncoming Traffic",
-        "sand": "Death and Taxes",
-        "jokes": "Have You Ever Made A Joke?"
+        "truck": "Oncoming Traffic",
+        "sand": "Silt and Taxes",
+        "jokes": "Makin' Jokes"
     },
     "deckliners": {
         "ben": "Have You Ever Ben In Love?",
         "chutney": "Chutney's Empire",
-        "trucks": "Oncoming Traffic",
-        "sand": "Death and Taxes",
-        "jokes": "Have You Ever Made A Joke?"
+        "truck": "Oncoming Traffic",
+        "sand": "Silt and Taxes",
+        "jokes": "Makin' Jokes"
     }
 }
