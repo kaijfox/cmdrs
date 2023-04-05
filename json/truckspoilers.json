@@ -1,9 +1,10 @@
 {
     "spoiledCars": [
-        {"img": "img/truck/bpd.png", "name": "bpd", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/truck/bpd.png", "name": "bpd", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/nuckgoose.png", "name": "nuckgoose", "cmc": "2wg", "p": "0", "t": "1"}
     ],
     "featuredMilk": "bpd",
     "spoilers": [
-        {"title": "Exclusive Content", "fig": "04/04/2023", "who": ["bpd"]}
+        {"title": "Exclusive Content", "fig": "04/04/2023", "who": ["bpd", "nuckgoose"]}
     ]
 }
