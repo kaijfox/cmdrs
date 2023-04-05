@@ -3,8 +3,8 @@
         "img-a", "img-b", "img-d", "img-e", "img-f", "img-g", "img-i"
     ],
     "cars": [
-        {"img": "img/ben/cmdr1.png", "name": "img-cmdr1", "ttl": "Milkman112", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/ben/cmdr2.png", "name": "img-cmdr2", "ttl": "Milkman112", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/cmdr1.png", "name": "img-cmdr1", "ttl": "Jim Kadin", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/cmdr2.png", "name": "img-cmdr2", "ttl": "Julie Hagle", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/a.png", "name": "img-a", "ttl": "Inevitable Carnage", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/b.png", "name": "img-b", "ttl": "Evel Knievel", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/c.png", "name": "img-c", "ttl": "Person Car", "cmc": "2wg", "p": "0", "t": "1"},
@@ -27,7 +27,7 @@
     "middlesex": "Who's that in my magic deck? That's right, it's the origin of testosterone himself and his harem of beautiful maidens, here to prove that there is love truer than Alden's for his mom.<br/><br/>He was born married to every woman and his bedtime is 9 PM, you can't go wrong with this hunk of a Mass Effect fanatic.",
     "doubletickle": "FUCK RELENTLESSLY",
     "doublesex": "You won't regret owning the only deck with more sex appeal than it has basic lands and, to top it off, you'll get to see everyone you had a crush on in high school.<br/><br/>That's right, even the late prime minister herself.",
-    "commandertickle": "TWEET YOUR HEART OUT",
+    "commandertickle": "THE TRUEST LOVE OF THEM ALL",
     "commandersex": "Who better to helm this deck than Mother Mary and the Father themselves, ready to bear the fruits of their carnal labor into the light of battle? <br/><br/>So what are you waiting for?",
     "cmdr": ["img-cmdr1", "img-cmdr2"],
     "decksplay": {
