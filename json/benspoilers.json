@@ -5,11 +5,15 @@
         {"img": "img/ben/bigben.png", "name": "bigben", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/capn.png", "name": "capn", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/thragben.png", "name": "thragben", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/ben/biology.png", "name": "biology", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/ben/biology.png", "name": "biology", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/bigbenback.png", "name": "bigbenback", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/capnback.png", "name": "capnback", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/thragbenback.png", "name": "thragbenback", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/biologyback.png", "name": "biologyback", "cmc": "2wg", "p": "0", "t": "1"}
     ],
     "featuredMilk": "thragben",
     "spoilers": [
-        {"title": "Hot Bens In Your Area", "fig": "04/07/2023", "who": ["bigben", "capn", "thragben", "biology"]},
+        {"title": "Hot Bens In Your Area", "fig": "04/07/2023", "who": ["bigben", "bigbenback", "capn", "capnback", "thragben", "thragbenback", "biology", "biologyback"]},
         {"title": "Exclusive Content", "fig": "04/04/2023", "who": ["megan", "boxalous"]}
     ]
 }
