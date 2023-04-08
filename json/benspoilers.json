@@ -9,10 +9,15 @@
         {"img": "img/ben/bigbenback.png", "name": "bigbenback", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/capnback.png", "name": "capnback", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/thragbenback.png", "name": "thragbenback", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/ben/biologyback.png", "name": "biologyback", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/ben/biologyback.png", "name": "biologyback", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/boniver.png", "name": "boniver", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/thistle.png", "name": "thistle", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/tolkien.png", "name": "tolkien", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/eleanor.png", "name": "eleanor", "cmc": "2wg", "p": "0", "t": "1"}
     ],
-    "featuredMilk": "thragbenback",
+    "featuredMilk": "thistle",
     "spoilers": [
+        {"title": "Go Green!", "fig": "04/08/2023", "who": ["thistle", "tolkien", "boniver", "eleanor"]},
         {"title": "Hot Bens In Your Area", "fig": "04/07/2023", "who": ["bigben", "bigbenback", "capn", "capnback", "thragben", "thragbenback", "biology", "biologyback"]},
         {"title": "Exclusive Content", "fig": "04/04/2023", "who": ["megan", "boxalous"]}
     ]

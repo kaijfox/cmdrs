@@ -6,10 +6,15 @@
         {"img": "img/chutney/barge.png", "name": "barge", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/chutney/club.png", "name": "club", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/chutney/cleaning.png", "name": "cleaning", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/chutney/garbageman.png", "name": "garbageman", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/chutney/garbageman.png", "name": "garbageman", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/git.png", "name": "git", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/mold.png", "name": "mold", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/truth.png", "name": "truth", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/waste.png", "name": "waste", "cmc": "2wg", "p": "0", "t": "1"}
     ],
     "featuredMilk": "barge",
     "spoilers": [
+        {"title": "The Darkness Below", "fig": "04/08/2023", "who": ["git", "mold", "truth", "waste"]},
         {"title": "Big Shitter Drop", "fig": "04/07/2023", "who": ["barge", "club", "cleaning", "garbageman"]},
         {"title": "Exclusive Content", "fig": "04/04/2023", "who": ["clevis", "booksale", "fakeit"]}
     ]

@@ -5,10 +5,15 @@
         {"img": "img/truck/aggrodriver.png", "name": "aggrodriver", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/truck/junkscav.png", "name": "junkscav", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/truck/roadside.png", "name": "roadside", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/skinnymung.png", "name": "skinnymung", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/truck/skinnymung.png", "name": "skinnymung", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/round.png", "name": "round", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/blind.png", "name": "blind", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/wrongexit.png", "name": "wrongexit", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/staceyrevenge.png", "name": "staceyrevenge", "cmc": "2wg", "p": "0", "t": "1"}
     ],
-    "featuredMilk": "roadside",
+    "featuredMilk": "round",
     "spoilers": [
+        {"title": "Seeing Red", "fig": "04/08/2023", "who": ["round", "blind", "wrongexit", "staceyrevenge"]},
         {"title": "Hit It Very Hard", "fig": "04/07/2023", "who": ["aggrodriver", "junkscav", "roadside", "skinnymung"]},
         {"title": "Exclusive Content", "fig": "04/04/2023", "who": ["bpd", "nuckgoose"]}
     ]
