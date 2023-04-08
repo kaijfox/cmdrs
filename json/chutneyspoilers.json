@@ -12,7 +12,7 @@
         {"img": "img/chutney/truth.png", "name": "truth", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/chutney/waste.png", "name": "waste", "cmc": "2wg", "p": "0", "t": "1"}
     ],
-    "featuredMilk": "barge",
+    "featuredMilk": "waste",
     "spoilers": [
         {"title": "The Darkness Below", "fig": "04/08/2023", "who": ["git", "mold", "truth", "waste"]},
         {"title": "Big Shitter Drop", "fig": "04/07/2023", "who": ["barge", "club", "cleaning", "garbageman"]},
