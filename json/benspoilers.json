@@ -11,7 +11,7 @@
         {"img": "img/ben/thragbenback.png", "name": "thragbenback", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/biologyback.png", "name": "biologyback", "cmc": "2wg", "p": "0", "t": "1"}
     ],
-    "featuredMilk": "thragben",
+    "featuredMilk": "thragbenback",
     "spoilers": [
         {"title": "Hot Bens In Your Area", "fig": "04/07/2023", "who": ["bigben", "bigbenback", "capn", "capnback", "thragben", "thragbenback", "biology", "biologyback"]},
         {"title": "Exclusive Content", "fig": "04/04/2023", "who": ["megan", "boxalous"]}
