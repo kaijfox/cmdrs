@@ -1,10 +1,15 @@
 {
     "spoiledCars": [
         {"img": "img/truck/bpd.png", "name": "bpd", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/nuckgoose.png", "name": "nuckgoose", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/truck/nuckgoose.png", "name": "nuckgoose", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/aggrodriver.png", "name": "aggrodriver", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/junkscav.png", "name": "junkscav", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/roadside.png", "name": "roadside", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/skinnymung.png", "name": "skinnymung", "cmc": "2wg", "p": "0", "t": "1"}
     ],
-    "featuredMilk": "bpd",
+    "featuredMilk": "roadside",
     "spoilers": [
+        {"title": "Hit It Very Hard", "fig": "04/07/2023", "who": ["aggrodriver", "junkscav", "roadside", "skinnymung"]},
         {"title": "Exclusive Content", "fig": "04/04/2023", "who": ["bpd", "nuckgoose"]}
     ]
 }
