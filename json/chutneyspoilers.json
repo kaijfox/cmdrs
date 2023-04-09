@@ -10,10 +10,15 @@
         {"img": "img/chutney/git.png", "name": "git", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/chutney/mold.png", "name": "mold", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/chutney/truth.png", "name": "truth", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/chutney/waste.png", "name": "waste", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/chutney/waste.png", "name": "waste", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/plans.png", "name": "plans", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/vetting.png", "name": "vetting", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/forage.png", "name": "forage", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/chutney/needle.png", "name": "needle", "cmc": "2wg", "p": "0", "t": "1"}
     ],
-    "featuredMilk": "waste",
+    "featuredMilk": "plans",
     "spoilers": [
+        {"title": "You Can Trip If You Want To", "fig": "04/09/2023", "who": ["plans", "vetting", "forage", "needle"]},
         {"title": "The Darkness Below", "fig": "04/08/2023", "who": ["git", "mold", "truth", "waste"]},
         {"title": "Big Shitter Drop", "fig": "04/07/2023", "who": ["barge", "club", "cleaning", "garbageman"]},
         {"title": "Exclusive Content", "fig": "04/04/2023", "who": ["clevis", "booksale", "fakeit"]}

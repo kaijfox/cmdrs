@@ -13,10 +13,15 @@
         {"img": "img/ben/boniver.png", "name": "boniver", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/thistle.png", "name": "thistle", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/tolkien.png", "name": "tolkien", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/ben/eleanor.png", "name": "eleanor", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/ben/eleanor.png", "name": "eleanor", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/bengaged.png", "name": "bengaged", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/wifeguy.png", "name": "wifeguy", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/guyswife.png", "name": "guyswife", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/engagement.png", "name": "engagement", "cmc": "2wg", "p": "0", "t": "1"}
     ],
-    "featuredMilk": "thistle",
+    "featuredMilk": "guyswife",
     "spoilers": [
+        {"title": "Holy Matrimony", "fig": "04/09/2023", "who": ["bengaged", "wifeguy", "guyswife", "engagement"]},
         {"title": "Go Green!", "fig": "04/08/2023", "who": ["thistle", "tolkien", "boniver", "eleanor"]},
         {"title": "Hot Bens In Your Area", "fig": "04/07/2023", "who": ["bigben", "bigbenback", "capn", "capnback", "thragben", "thragbenback", "biology", "biologyback"]},
         {"title": "Exclusive Content", "fig": "04/04/2023", "who": ["megan", "boxalous"]}
