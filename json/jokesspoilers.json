@@ -1,10 +1,21 @@
 {
     "spoiledCars": [
         {"img": "img/joke/sitcom.png", "name": "sitcom", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/joke/detroit.png", "name": "detroit", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/joke/detroit.png", "name": "detroit", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/joke/chim.png", "name": "chim", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/joke/chimzone.png", "name": "chimzone", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/joke/legg.png", "name": "legg", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/joke/miles.png", "name": "miles", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/joke/bowl.png", "name": "bowl", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/joke/spellfist.png", "name": "spellfist", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/joke/verboverse.png", "name": "verboverse", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/joke/monday.png", "name": "monday", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/joke/bogo.png", "name": "bogo", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/joke/counting.png", "name": "counting", "cmc": "2wg", "p": "0", "t": "1"}
     ],
-    "featuredMilk": "sitcom",
+    "featuredMilk": "monday",
     "spoilers": [
+        {"title": "Celebratory Superdrop", "fig": "04/11/2023", "who": ["miles", "bowl", "spellfist", "verboverse", "monday", "bogo", "counting"]},
         {"title": "Exclusive Content", "fig": "04/04/2023", "who": ["sitcom", "detroit"]}
     ]
 }

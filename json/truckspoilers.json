@@ -11,10 +11,15 @@
         {"img": "img/truck/wrongexit.png", "name": "wrongexit", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/truck/staceyrevenge.png", "name": "staceyrevenge", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/truck/newton.png", "name": "newton", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/truck/complex.png", "name": "complex", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/truck/complex.png", "name": "complex", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/Thragtruck.png", "name": "thragtruck", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/thragform.png", "name": "thragform", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/stampede.png", "name": "stampede", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/truck/logging.png", "name": "logging", "cmc": "2wg", "p": "0", "t": "1"}
     ],
-    "featuredMilk": "newton",
+    "featuredMilk": "thragform",
     "spoilers": [
+        {"title": "Big Green Fuck Machine", "fig": "04/11/2023", "who": ["thragform", "thragtruck", "stampede", "logging"]},
         {"title": "Absurdityism", "fig": "04/09/2023", "who": ["newton", "complex"]},
         {"title": "Seeing Red", "fig": "04/08/2023", "who": ["round", "blind", "wrongexit", "staceyrevenge"]},
         {"title": "Hit It Very Hard", "fig": "04/07/2023", "who": ["aggrodriver", "junkscav", "roadside", "skinnymung"]},

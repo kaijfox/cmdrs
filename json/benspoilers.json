@@ -17,10 +17,16 @@
         {"img": "img/ben/bengaged.png", "name": "bengaged", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/wifeguy.png", "name": "wifeguy", "cmc": "2wg", "p": "0", "t": "1"},
         {"img": "img/ben/guyswife.png", "name": "guyswife", "cmc": "2wg", "p": "0", "t": "1"},
-        {"img": "img/ben/engagement.png", "name": "engagement", "cmc": "2wg", "p": "0", "t": "1"}
+        {"img": "img/ben/engagement.png", "name": "engagement", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/bukkake.png", "name": "bukkake", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/enemies.png", "name": "enemies", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/garlic.png", "name": "garlic", "cmc": "2wg", "p": "0", "t": "1"},
+        {"img": "img/ben/encanto.png", "name": "encanto", "cmc": "2wg", "p": "0", "t": "1"}
+        
     ],
-    "featuredMilk": "guyswife",
+    "featuredMilk": "encanto",
     "spoilers": [
+        {"title": "Meme Day", "fig": "04/11/2023", "who": ["bukkake", "encanto", "garlic", "enemies"]},
         {"title": "Holy Matrimony", "fig": "04/09/2023", "who": ["bengaged", "wifeguy", "guyswife", "engagement"]},
         {"title": "Go Green!", "fig": "04/08/2023", "who": ["thistle", "tolkien", "boniver", "eleanor"]},
         {"title": "Hot Bens In Your Area", "fig": "04/07/2023", "who": ["bigben", "bigbenback", "capn", "capnback", "thragben", "thragbenback", "biology", "biologyback"]},
